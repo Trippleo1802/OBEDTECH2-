@@ -44,7 +44,7 @@ href="https://github.com/Trippleo1802/Obed-tech/watchers"><img title="Watching"
 
 ### 🔹 DEPLOY ON HEROKU
 
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTrippleo1802%2FNORMAL-BOT)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/OBEDTECH2-)
   
 ### 🔹 DEPLOY ON OTHER PLATFORMS
 - **Render:**  

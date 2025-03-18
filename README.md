@@ -46,17 +46,6 @@ href="https://github.com/Trippleo1802/Obed-tech/watchers"><img title="Watching"
 
   [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/OBEDTECH2-)
   
-### 🔹 DEPLOY ON OTHER PLATFORMS
-- **Render:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
-
-- **ToyStack:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
-
-- **Koyeb:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
-
----
 
 ## ⚡ OBED TECH BOT INFO  
 🚗 **High Performance** - Optimized for speed and efficiency  

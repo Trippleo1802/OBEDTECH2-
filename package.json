@@ -1,8 +1,8 @@
 {
-  "name": "Charlie-mf",
+  "name": "Obed.md",
   "version": "2.0.0",
   "description": "",
-  "main": "charles.js",
+  "main": "Obed.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "concurrently \"node charles.js\" \"node charles.js\"",
@@ -11,12 +11,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmw",
+    "OBED TECH",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "Obed tech"
   ],
-  "author": "Ibrahim Adams",
+  "author": "Obed tech",
   "license": "ISC",
   "engines": {
     "node": "18.x",

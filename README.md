@@ -1,4 +1,4 @@
-# Obed-tech2>
+30# Obed-tech2>
   
 <p align="center">  
   <a href="https://files.catbox.moe/1khsx4.jpg">
@@ -20,9 +20,6 @@ href="https://github.com/Trippleo1802/Obed-tech/watchers"><img title="Watching"
 ---
 
 
-
-
-## 🚀 GET SESSION
 
 <p align="center">
   <a href="https://charle-ke.onrender.com">

@@ -7,7 +7,7 @@
   </a>
 
 <p align="center">
-  <a href="https://github.com/Trippleo1802/Obed-tech"><img title="Author" src="https://github.com/Trippleo1802/Obed-tech"></a> 
+  <a href="https://github.com/Trippleo1802/Obed-tech"><img title="Author"><img src="https://github.com/Trippleo1802/Obed-tech"></a> 
   <a href="https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> 
   <a href="https://wa.me/254701082940"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 </p>

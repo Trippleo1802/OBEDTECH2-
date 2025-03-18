@@ -5,17 +5,6 @@
     <img alt="secktor docs" height="300" src="https://files.catbox.moe/1khsx4.jpg">
     <h1 align="center"> POWERED OBED TECH</h1>
   </a>
-</p>  
-
----
-
-<p align="center">
-  <a href="https://buymeacoffee.com/charlesodhu" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
-  </a>
-</p>
-
----
 
 <p align="center">
   <a href="https://github.com/Trippleo1802/Obed-tech"><img title="Author" src="https://github.com/Trippleo1802/Obed-tech"></a> 

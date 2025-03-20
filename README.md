@@ -9,7 +9,7 @@
 
  <a href="https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/OBEDTECH2-"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
- ## 🚀 GET SESSION
+ ## 🌎 GET SESSION
 
 <p align="center">
   <a href="https://obedsessionbyconfronter-a73dd33e4d71.herokuapp.com/pair">

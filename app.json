@@ -1,6 +1,6 @@
 {
   "name": "🚮 OBED TECH✊",
-  "description": "This BOT was developed by CASEYRHODES.",
+  "description": "This BOT was developed by OBEDTECH.",
   "keywords": [
     "bot",
     "node",
@@ -110,12 +110,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒🍀"
+      "value": "OBEDTECH🍀"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254112192119"
+      "value": "25401082940"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",

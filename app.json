@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://i.ibb.co/21YS7vBf/lordali.jpg",
-  "repository": "https://github.com/caseyweb/ZHEZHO-MD",
+  "repository": "https://github.com/Trippleo1802/OBEDTECH2-",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -79,7 +79,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "CASEYRHODES MD",
+      "value": "OBED TECH MD",
       "required": false
     },
     "BOT_MENU_LINKS": {

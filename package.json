@@ -1,24 +1,24 @@
 {
-  "name": "CASEYRHODES XMD",
+  "name": "OBED TECH",
   "version": "2.0.0",
   "description": "",
-  "main": "casey.js",
+  "main": "obed.js",
   "scripts": {
-    "test": "node casey.js",
+    "test": "node obed.js",
     "s": "node casey.js",
-    "toshtech": "pm2 start casey.js --attach",
-    "toshtech": "pm2 start casey.js --attach",
+    "toshtech": "pm2 start obed.js --attach",
+    "toshtech": "pm2 start obed.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "CASEYRHODES XMD",
+    "OBED TECH",
     "whatsapp",
     "whatsapp-bot",
-    "CASEYRHODES XMD"
+    "OBED TECH"
   ],
-  "author": "CASEYRHODES",
+  "author": "OBED TECH",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

@@ -84,7 +84,7 @@
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/21YS7vBf/lordali.jpg",
+      "value":"https://files.catbox.moe/1khsx4.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
